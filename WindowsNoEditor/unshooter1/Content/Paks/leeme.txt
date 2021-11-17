@@ -1,0 +1,8 @@
+[ LEEME ]
+
+Para extraer el archivo PAK (.pak) debes extraer todos los archivos comprimidos (.rar) al mismo tiempo.
+
+Gracias por leer este archivo importante,
+Wackgamer
+
+https://github.com/Wackgamer
